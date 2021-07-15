@@ -49,7 +49,7 @@
 
 <div align="center">
 
-
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/1.PNG)
   
   
  </div>
@@ -59,7 +59,7 @@
 <div align="center">
 
 
- 
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/6.PNG)
 
 </div>
 
@@ -67,7 +67,8 @@
 
 <div align="center">
 
-
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/2.PNG)
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/3.PNG)
   
 </div>
 
@@ -76,6 +77,8 @@
 <div align="center">
 
   
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/4.PNG)
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/5.PNG)  
   
 
 </div>
@@ -83,7 +86,9 @@
 ###### **TABLA 1. Medición de voltaje aplicando superposición.**
 <div align="center">
 
-  
+
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/tab1.PNG)
+
   
 
 </div>
@@ -93,6 +98,8 @@
 <div align="center">
 
   
+
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/tab2.PNG)
   
 
 </div>
