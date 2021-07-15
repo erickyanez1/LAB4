@@ -112,7 +112,7 @@
 Se concluye que:
 
 - .
-- Un circuito lineal que tenga varias fuentes independientes puede analizarse remplazando dichas fuentes por un cortocircuito o un circuito abierto, esto dependerá si es un fuente de tensión o una fuente de corriente
+- Un circuito lineal que tenga varias fuentes independientes puede analizarse remplazando dichas fuentes por un cortocircuito o un circuito abierto, esto dependerá si es un fuente de tensión o una fuente de corriente.
 - .
 
 # **7. BIBLIOGRAFÍA**
