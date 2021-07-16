@@ -27,7 +27,8 @@
 
 <div align="center">
   
-
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/Marco_teorico_1.png)
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/Marco_teorico_2.png)
   
 </div>
   
@@ -35,7 +36,7 @@
 
 <div align="center">
 
-
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/Materiales.png)
   
   
 
@@ -110,7 +111,7 @@
 
 #  5.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
-
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/Calculo_de_error.png)
 
 # **6. VIDEO**
 
