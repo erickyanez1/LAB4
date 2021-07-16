@@ -60,7 +60,8 @@
 
 
 ![](https://github.com/erickyanez1/LAB4/blob/main/IMG/6.PNG)
-
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/simulacion_total.PNG)
+  
 </div>
 
 ###### **4.1.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas.**
