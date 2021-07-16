@@ -81,7 +81,7 @@
   
 ![](https://github.com/erickyanez1/LAB4/blob/main/IMG/4.PNG)
 ![](https://github.com/erickyanez1/LAB4/blob/main/IMG/5.PNG)  
-  
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/simulacion_derecha.PNG)  
 
 </div>
 
