@@ -127,3 +127,6 @@ Se concluye que:
 
 # **8. BIBLIOGRAFÍA**
 
+Alexander, Charles K., Fundamentos de circuitos eléctricos. McGraw-Hill, 2006.
+
+Vásquez, J. R. G. (2008). Teoremas fundamentales de circuitos eléctricos (Doctoral dissertation, Universidad Tecnológica de Pereira. Facultad de Ingenierías Eléctrica, Electrónica, Física y Ciencias de la Computación. Ingeniería Eléctrica.).
