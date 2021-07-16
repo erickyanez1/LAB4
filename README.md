@@ -70,6 +70,7 @@
 
 ![](https://github.com/erickyanez1/LAB4/blob/main/IMG/2.PNG)
 ![](https://github.com/erickyanez1/LAB4/blob/main/IMG/3.PNG)
+![](https://github.com/erickyanez1/LAB4/blob/main/IMG/simulacion_izquierda.PNG)
   
 </div>
 
