@@ -16,12 +16,12 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - .
+  - Comprender el Teorema de Superposición en circuitos lineales mediante la realización de circuitos abiertos o cerrados, esto dependerá si se tiene una fuente de voltaje o de intensidad con el fin de la medición y cálculo de valores de tensión.
  
  **OBJETIVOS ESPECÍFICOS**
-  - .
-  - .
-  - .
+  - Aplicar los conocimientos adquiridos de Ley de Ohm mediante cálculos con el fin de percatarnos los valores de voltaje e instensidad en la resistencia o componente que se nos pida.
+  - Analizar los circuitos con más de una fuente mediante el teorema de superposición con el fin de de tener una mayor facilidad al momento de los calculos.
+  - Calcular los voltajes e intensidades mediante los divisores de voltajes e intensidades con el fin de dar solución a nuestro problema inicial.
 
 # **2. MARCO TEÓRICO**
 
@@ -118,7 +118,7 @@
 
 Se concluye que:
 
-- .
+- Los divisores tanto de corrientes y de intensidades fueron de mucha utilidad en este problema debido a su fácil desarrollo evitando así irnos por un sistema de ecuaciones que resultaría más largo y complejo de solucionar.
 - Un circuito lineal que tenga varias fuentes independientes puede analizarse reemplazando dichas fuentes por un cortocircuito o un circuito abierto, esto dependerá si es un fuente de tensión o una fuente de corriente.
 - .
 
