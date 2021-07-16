@@ -123,7 +123,7 @@ Se concluye que:
 
 - Los divisores tanto de corrientes y de intensidades fueron de mucha utilidad en este problema debido a su fácil desarrollo evitando así irnos por un sistema de ecuaciones que resultaría más largo y complejo de solucionar.
 - Un circuito lineal que tenga varias fuentes independientes puede analizarse reemplazando dichas fuentes por un cortocircuito o un circuito abierto, esto dependerá si es un fuente de tensión o una fuente de corriente.
-- Mediante este laboratorio pudimos comprobar la funcionalidad el método de superposición, ya que este nos ayuda a reducir un circuito complejo a dos o más circuitos sencillos y de esa manera calcularlos sin ninguna complicación.
+- Mediante este laboratorio pudimos comprobar la funcionalidad del método de superposición, ya que este nos ayuda a reducir un circuito complejo a dos o más circuitos sencillos y de esa manera calcularlos sin ningun problema.
 
 # **8. BIBLIOGRAFÍA**
 
