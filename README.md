@@ -31,7 +31,7 @@
   
 </div>
   
-# MATERIAL Y EQUIPO REQUERIDO
+# **3. MATERIAL Y EQUIPO REQUERIDO**
 
 <div align="center">
 
@@ -41,11 +41,11 @@
 
 </div>
 
-# **3. EXPLICACIÓN DEL PROCEDIMIENTO**
+# **4. EXPLICACIÓN DEL PROCEDIMIENTO**
 
-## **3.1 PROCEDIMIENTO**
+## **4.1 PROCEDIMIENTO**
 
-###### **3.1.1 Arme el circuito.**
+###### **4.1.1 Arme el circuito.**
 
 <div align="center">
 
@@ -54,7 +54,7 @@
   
  </div>
 
-###### **3.1.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas.**
+###### **4.1.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas.**
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 </div>
 
-###### **3.1.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas.**
+###### **4.1.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas.**
 
 <div align="center">
 
@@ -72,7 +72,7 @@
   
 </div>
 
-###### **3.1.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas.**
+###### **4.1.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas.**
 
 <div align="center">
 
@@ -104,17 +104,17 @@
 
 </div>
 
-###### **3.1.5 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.**
+###### **4.1.5 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.**
 
-#  4.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
+#  5.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 
 
-# **5. VIDEO**
+# **6. VIDEO**
 
 - 
 
-# **6. CONCLUSIONES**
+# **7. CONCLUSIONES**
 
 Se concluye que:
 
@@ -122,5 +122,5 @@ Se concluye que:
 - Un circuito lineal que tenga varias fuentes independientes puede analizarse reemplazando dichas fuentes por un cortocircuito o un circuito abierto, esto dependerá si es un fuente de tensión o una fuente de corriente.
 - .
 
-# **7. BIBLIOGRAFÍA**
+# **8. BIBLIOGRAFÍA**
 
